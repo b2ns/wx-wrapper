@@ -6,7 +6,7 @@
 支持包装App、Page、Component和Behavior，里边的参数和使用原始函数时一样
 ```javascript
 import wrapper from 'wx-wrapper';
-import computed from 'wx-computed';
+import computed from 'wx-computed2';
 
 wrapper({
     Page: {
