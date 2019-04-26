@@ -1,0 +1,28 @@
+{
+  "name": "wx-wrapper",
+  "version": "1.0.0",
+  "description": "包装小程序App、Page和Component等全局方法，提供全局配置和钩子能力",
+  "main": "wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b2ns/wx-wrapper.git"
+  },
+  "keywords": [
+    "wx",
+    "小程序",
+    "wrapper",
+    "包装器",
+    "全局配置",
+    "生命周期",
+    "钩子"
+  ],
+  "author": "b2ns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b2ns/wx-wrapper/issues"
+  },
+  "homepage": "https://github.com/b2ns/wx-wrapper#readme"
+}
